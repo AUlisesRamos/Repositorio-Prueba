@@ -1,2 +1,1 @@
-# Repositorio-Prueba
-este es un repositorio de prueba del modulo 2 de PrepCourse Henry 
+esto de una prueba de como hacer un repositorio y clonarlo desde github a mi computadora. ramos
